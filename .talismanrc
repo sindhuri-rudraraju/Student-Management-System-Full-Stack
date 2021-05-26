@@ -1,5 +1,0 @@
-fileignoreconfig:
-- filename: package-lock.json
-  checksum: 3efa45923e3e79d288a7284358e12f8cddcbd7336f50b5dcaf45b9fda68abd87
-- filename: src/components/ListStudentComponent.jsx
-  checksum: 775ff11cc3404aef46f5a8293a849aa979413afa29fbcdba272dd230a576c495
