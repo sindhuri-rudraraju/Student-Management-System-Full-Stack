@@ -1,5 +1,7 @@
 # Student-Management-System-Full-Stack
 
+Extra line
+
                               DB SETUP
 First of all set the MySql running on your local at the PORT 3360
 Create DataBase "student_management_schema" 
